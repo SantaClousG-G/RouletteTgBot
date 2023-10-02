@@ -1,6 +1,5 @@
 import logging
 import random
-#import time
 import mysql.connector
 import numpy as np
 import threading
